@@ -32,6 +32,4 @@ public class CalculatorTest {
         assertEquals(2.5, calculator.divide(5, 2), 0.0);
     }
 
-
-
 }
