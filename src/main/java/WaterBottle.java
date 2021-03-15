@@ -23,6 +23,6 @@ public class WaterBottle {
     }
 
     public void fill(){
-
+        setVolume(100);
     }
 }
