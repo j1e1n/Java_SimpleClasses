@@ -21,4 +21,8 @@ public class WaterBottle {
     public void empty(){
         setVolume(0);
     }
+
+    public void fill(){
+
+    }
 }
